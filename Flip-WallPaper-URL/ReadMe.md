@@ -1,1 +1,1 @@
-A modified version from [I-Am-Jackoby](https://github.com/I-Am-Jakoby/)
+Check out [I-Am-Jackoby](https://github.com/I-Am-Jakoby/) as this script is his!
